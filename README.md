@@ -64,16 +64,16 @@ $ node Amalser.js
 ----
 
   <p align="center">
-  <a href="httsp://github.com/Amal-ser/Amalser">
+  <a href="httsp://github.com/ALVIN_ser/ALVIN_ser">
     
-<a href="https://github.com/Amal-ser/followers">
+<a href="https://github.com/ALVIN_ser/followers">
 <img src="https://img.shields.io/github/repo-size/Amal-ser/Amalser?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
 <a href="https://github.com/Amal-ser/followers"
 <img title="Followers" src="https://img.shields.io/github/followers/Amal-ser?color=blue&style=flat-square"></a>
-<a href="https://github.com/Amal-ser/Amalser/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Amal-ser/Amalser?color=blue&style=flat-square"></a>
-<a href="https://github.com/Amal-ser/Amalser/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Amal-ser/Amalser?color=blue&style=flat-square"></a>
-<a href="https://github.com/Amal-ser/Amalser/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Amal-ser/Amalser?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/ALVIN_ser/ALVIN_ser/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Amal-ser/Amalser?color=blue&style=flat-square"></a>
+<a href="https://github.com/ALVIN_ser/ALVIN_ser/network/members"><img title="Forks" src="https://img.shields.io/github/forks/ALVIN_ser/ALVIN_ser?color=blue&style=flat-square"></a>
+<a href="https://github.com/Amal-ser/ALVIN_ser/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/ALVIN_ser/ALVIN_ser?label=Watchers&color=blue&style=flat-square"></a>
 </p>
 
 ## 📢 Guide
@@ -83,7 +83,7 @@ Click WA logo to Join Support Group 👇
   [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/CbRlEux876XFsWQfIlOKty)
   <div align="center">
        
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Amal-ser&repo=Amalser&theme=nightowl)](https://github.com/Amal-ser/Amalser)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Amal-ser&repo=Amalser&theme=nightowl)](https://github.com/ALVIN_ser/ALVIN_ser)
   </div>
     
 ### ⚠ Warning ⚠
